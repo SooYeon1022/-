@@ -13,7 +13,7 @@
 ![위해성평가 회원가입 1](https://user-images.githubusercontent.com/125325764/220272081-f5520fcf-dfec-4d12-83c4-36c0c194ac5a.png)
     
 
-+ 회원가입 없이 이용하기 선택 시 로그인 하지 않아도 위해성평가 자가진단 진행이 가능합니다.
++ _회원가입 없이 이용하기 선택 시 로그인 하지 않아도 위해성평가 자가진단 진행이 가능합니다._  
 ![위해성평가](https://user-images.githubusercontent.com/125325764/220267435-139ac209-b998-4dfb-a920-04d09df3a78f.png)
 
 
